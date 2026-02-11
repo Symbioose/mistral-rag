@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-mistralai
+langchain-qdrant
+qdrant-client
+pypdf
+tiktoken
+python-dotenv
